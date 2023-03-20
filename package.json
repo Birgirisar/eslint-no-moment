@@ -1,6 +1,6 @@
 {
-  "name": "moment-birgirisar",
-  "version": "1.0.2",
+  "name": "eslint-no-moment-birgirisar",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "files": [
