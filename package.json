@@ -1,5 +1,5 @@
 {
-  "name": "@birgirisar/eslint-no-moment-birgirisar",
+  "name": "@birgirisasr/eslint-config-moment",
   "version": "1.0.3",
   "description": "https://www.npmjs.com/package/eslint-no-moment-birgirisar",
   "main": "index.js",
@@ -11,22 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Birgirisar/eslint-no-moment.git"
+    "url": "git+https://github.com/Birgirisar/eslint-config-moment.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Birgirisar/eslint-no-moment/issues"
+    "url": "https://github.com/Birgirisar/eslint-config-moment/issues"
   },
-  "homepage": "https://github.com/Birgirisar/eslint-no-moment#readme",
+  "homepage": "https://github.com/Birgirisar/eslint-config-moment#readme",
   "dependencies": {
     "eslint-plugin-import": "^2.27.5"
   },
   "peerDependencies": {
     "eslint": "^8.34.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
