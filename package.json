@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Birgirisar/eslint-config-moment.git"
+    "url": "git+https://github.com/Birgirisar/eslint-no-moment.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Birgirisar/eslint-config-moment/issues"
+    "url": "https://github.com/Birgirisar/eslint-no-moment/issues"
   },
-  "homepage": "https://github.com/Birgirisar/eslint-config-moment#readme",
+  "homepage": "https://github.com/Birgirisar/eslint-no-moment#readme",
   "dependencies": {
     "eslint-plugin-import": "^2.27.5"
   },
